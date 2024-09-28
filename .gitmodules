@@ -46,3 +46,9 @@
 	path = regression_metalurgy
 	url = https://github.com/LeonidDybovskij/yandex_regression_metalurgy.git
 	branch = main
+[submodule "tariff_stats"]
+	path = tariff_stats
+	url = https://github.com/LeonidDybovskij/yandex_tariff_stats
+[submodule "credit_scoring"]
+	path = 1_credit_scoring
+	url = https://github.com/LeonidDybovskij/yandex_credit_scoring
