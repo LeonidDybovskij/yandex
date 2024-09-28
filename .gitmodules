@@ -1,54 +1,54 @@
-[submodule "real_estate_market_analysis"]
-	path = real_estate_market_analysis
-	url = https://github.com/LeonidDybovskij/yandex_real_estate_market_analysis.git
-	branch = main
-[submodule "computer_games"]
-	path = computer_games
-	url = https://github.com/LeonidDybovskij/yandex_computer_games.git
-	branch = main
-[submodule "tariff_recommendation"]
-	path = tariff_recommendation
-	url = https://github.com/LeonidDybovskij/yandex_tariff_recommendation.git
-	branch = main
-[submodule "supervised_classification"]
-	path = supervised_classification
-	url = https://github.com/LeonidDybovskij/yandex_supervised_classification.git
-	branch = main
-[submodule "oil_bootstrap"]
-	path = oil_bootstrap
-	url = https://github.com/LeonidDybovskij/yandex_oil_bootstrap.git
-	branch = main
-[submodule "gold_recovery"]
-	path = gold_recovery
-	url = https://github.com/LeonidDybovskij/yandex_gold_recovery.git
-	branch = main
-[submodule "data_transformation"]
-	path = data_transformation
-	url = https://github.com/LeonidDybovskij/yandex_data_transformation.git
-	branch = main
-[submodule "cars_boosting"]
-	path = cars_boosting
-	url = https://github.com/LeonidDybovskij/yandex_cars_boosting.git
-	branch = main
-[submodule "taxi_time_series"]
-	path = taxi_time_series
-	url = https://github.com/LeonidDybovskij/yandex_taxi_time_series.git
-	branch = main
-[submodule "text_classification"]
-	path = text_classification
-	url = https://github.com/LeonidDybovskij/yandex_text_classification.git
-	branch = main
-[submodule "computer_vision"]
-	path = computer_vision
-	url = https://github.com/LeonidDybovskij/yandex_computer_vision.git
-	branch = main
-[submodule "regression_metalurgy"]
-	path = regression_metalurgy
-	url = https://github.com/LeonidDybovskij/yandex_regression_metalurgy.git
-	branch = main
-[submodule "tariff_stats"]
-	path = tariff_stats
-	url = https://github.com/LeonidDybovskij/yandex_tariff_stats
 [submodule "credit_scoring"]
 	path = 1_credit_scoring
 	url = https://github.com/LeonidDybovskij/yandex_credit_scoring
+[submodule "real_estate_market_analysis"]
+	path = 2_real_estate_market_analysis
+	url = https://github.com/LeonidDybovskij/yandex_real_estate_market_analysis.git
+	branch = main
+[submodule "tariff_stats"]
+	path = 3_tariff_stats
+	url = https://github.com/LeonidDybovskij/yandex_tariff_stats
+[submodule "computer_games"]
+	path = 4_computer_games
+	url = https://github.com/LeonidDybovskij/yandex_computer_games.git
+	branch = main
+[submodule "tariff_recommendation"]
+	path = 5_tariff_recommendation
+	url = https://github.com/LeonidDybovskij/yandex_tariff_recommendation.git
+	branch = main
+[submodule "supervised_classification"]
+	path = 6_supervised_classification
+	url = https://github.com/LeonidDybovskij/yandex_supervised_classification.git
+	branch = main
+[submodule "oil_bootstrap"]
+	path = 7_oil_bootstrap
+	url = https://github.com/LeonidDybovskij/yandex_oil_bootstrap.git
+	branch = main
+[submodule "gold_recovery"]
+	path = 8_gold_recovery
+	url = https://github.com/LeonidDybovskij/yandex_gold_recovery.git
+	branch = main
+[submodule "data_transformation"]
+	path = 9_data_transformation
+	url = https://github.com/LeonidDybovskij/yandex_data_transformation.git
+	branch = main
+[submodule "cars_boosting"]
+	path = 10_cars_boosting
+	url = https://github.com/LeonidDybovskij/yandex_cars_boosting.git
+	branch = main
+[submodule "taxi_time_series"]
+	path = 11_taxi_time_series
+	url = https://github.com/LeonidDybovskij/yandex_taxi_time_series.git
+	branch = main
+[submodule "text_classification"]
+	path = 12_text_classification
+	url = https://github.com/LeonidDybovskij/yandex_text_classification.git
+	branch = main
+[submodule "computer_vision"]
+	path = 13_computer_vision
+	url = https://github.com/LeonidDybovskij/yandex_computer_vision.git
+	branch = main
+[submodule "regression_metalurgy"]
+	path = 14_regression_metalurgy
+	url = https://github.com/LeonidDybovskij/yandex_regression_metalurgy.git
+	branch = main
