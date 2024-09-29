@@ -1,6 +1,3 @@
-[submodule "credit_scoring"]
-	path = 1_credit_scoring
-	url = https://github.com/LeonidDybovskij/yandex_credit_scoring
 [submodule "real_estate_market_analysis"]
 	path = 2_real_estate_market_analysis
 	url = https://github.com/LeonidDybovskij/yandex_real_estate_market_analysis.git
