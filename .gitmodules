@@ -1,0 +1,42 @@
+[submodule "1_credit_scoring"]
+	path = 1_credit_scoring
+	url = https://github.com/LeonidDybovskij/yandex_credit_scoring.git
+[submodule "2_real_estate_market_analysis"]
+	path = 2_real_estate_market_analysis
+	url = https://github.com/LeonidDybovskij/yandex_real_estate_market_analysis.git
+[submodule "3_tariff_stats"]
+	path = 3_tariff_stats
+	url = https://github.com/LeonidDybovskij/yandex_tariff_stats.git
+[submodule "4_computer_games"]
+	path = 4_computer_games
+	url = https://github.com/LeonidDybovskij/yandex_computer_games.git
+[submodule "5_tariff_recommendation"]
+	path = 5_tariff_recommendation
+	url = https://github.com/LeonidDybovskij/yandex_tariff_recommendation.git
+[submodule "6_supervised_classification"]
+	path = 6_supervised_classification
+	url = https://github.com/LeonidDybovskij/yandex_supervised_classification.git
+[submodule "7_oil_bootstrap"]
+	path = 7_oil_bootstrap
+	url = https://github.com/LeonidDybovskij/yandex_oil_bootstrap.git
+[submodule "8_gold_recovery"]
+	path = 8_gold_recovery
+	url = https://github.com/LeonidDybovskij/yandex_gold_recovery.git
+[submodule "9_data_transformation"]
+	path = 9_data_transformation
+	url = https://github.com/LeonidDybovskij/yandex_data_transformation.git
+[submodule "10_cars_boosting"]
+	path = 10_cars_boosting
+	url = https://github.com/LeonidDybovskij/yandex_cars_boosting.git
+[submodule "11_taxi_time_series"]
+	path = 11_taxi_time_series
+	url = https://github.com/LeonidDybovskij/yandex_taxi_time_series.git
+[submodule "12_text_classification"]
+	path = 12_text_classification
+	url = https://github.com/LeonidDybovskij/yandex_text_classification.git
+[submodule "13_computer_vision"]
+	path = 13_computer_vision
+	url = https://github.com/LeonidDybovskij/yandex_computer_vision.git
+[submodule "14_regression_metallurgy"]
+	path = 14_regression_metallurgy
+	url = https://github.com/LeonidDybovskij/yandex_regression_metallurgy.git
